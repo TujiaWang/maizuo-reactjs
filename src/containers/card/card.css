@@ -1,0 +1,51 @@
+/*
+ * @Author: tujiawang 
+ * @Date: 2017-05-08 16:35:11 
+ * @Last Modified by: tujiawang
+ * @Last Modified time: 2017-05-08 16:40:30
+ */
+.material {
+  margin-top: 20px;
+  padding: 0 32px;
+}
+.material .cardquery {
+  margin-top: 30px;
+}
+.material .cardquery input {
+  background-color: transparent;
+  height: 34px;
+  width: 55%;
+  font-size: 14px;
+  vertical-align: top;
+  border: none;
+  outline: medium;
+  font: 12px/1.5 Tahoma, Helvetica, Arial, sans-serif;
+  font-family: 'Microsoft YaHei', Tahoma, Helvetica, Arial, sans-serif;
+}
+.material label {
+  font-weight: normal;
+  line-height: 34px;
+  margin: 0 15px 0 10px;
+  float: left;
+  display: inline-block;
+  max-width: 100%;
+}
+.material .line {
+  border-width: 0px 1px 1px;
+  border-style: solid;
+  border-color: #ccc;
+  height: 5px;
+  margin-top: -5px;
+}
+.card_query_bottom {
+  width: 160px;
+  margin: 25px auto 30px;
+  border-radius: 18px;
+  background-color: #fe8233;
+  height: 36px;
+  color: #fff;
+  font-size: 14px;
+  line-height: 36px;
+  border: none;
+  display: block;
+}

@@ -1,0 +1,25 @@
+/*
+ * @Author: tujiawang 
+ * @Date: 2017-05-03 15:08:40 
+ * @Last Modified by: tujiawang
+ * @Last Modified time: 2017-05-03 15:13:26
+ */
+.films {
+  margin: 0 15px;
+}
+.films .film-tab {
+  height: 48px;
+  line-height: 48px;
+  font-size: 16px;
+  display: flex;
+  justify-content: space-around;
+}
+.films .film-tab span {
+  flex-grow: 1;
+  text-align: center;
+  border-bottom: 1px solid #fe6e00;
+}
+.films .film-tab span.on {
+  color: #fe6e00;
+  border-bottom: 4px solid #fe6e00;
+}

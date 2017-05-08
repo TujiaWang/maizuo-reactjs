@@ -1,0 +1,28 @@
+/*
+ * @Author: tujiawang 
+ * @Date: 2017-05-02 17:59:54 
+ * @Last Modified by:   tujiawang 
+ * @Last Modified time: 2017-05-02 17:59:54 
+ */
+.now-item {
+  margin: 15px 15px 0 15px;
+  background: #f9f9f9;
+  box-shadow: 0.5px 0.5px 1px #a8a8a8;
+}
+.now-item img {
+  width: 100%;
+}
+.now-item div {
+  background: #fff;
+  padding: 10px;
+  line-height: 25px;
+  position: relative;
+  z-index: 9;
+}
+.now-item div span {
+  position: absolute;
+  right: 10px;
+  top: 20px;
+  color: #f78360;
+  font-size: 16px;
+}

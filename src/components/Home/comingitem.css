@@ -1,0 +1,42 @@
+/*
+ * @Author: tujiawang 
+ * @Date: 2017-05-02 18:01:12 
+ * @Last Modified by:   tujiawang 
+ * @Last Modified time: 2017-05-02 18:01:12 
+ */
+.coming-container .dividing-line {
+  position: relative;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border-bottom: 1px solid #a8a8a8;
+}
+.coming-container .dividing-line > h2 {
+  width: 65px;
+  height: 20px;
+  margin: 0 auto;
+  margin-bottom: -10px;
+  border-radius: 5px;
+  font-size: 10px;
+  line-height: 20px;
+  text-align: center;
+  color: #eee;
+  background-color: #a7a7a7;
+}
+.coming-container .coming-item {
+  margin: 15px 15px 0 15px;
+  background: #f9f9f9;
+  box-shadow: 0.5px 0.5px 1px #a8a8a8;
+}
+.coming-container .coming-item img {
+  width: 100%;
+}
+.coming-container .coming-item div {
+  background: #fff;
+  padding: 10px;
+  line-height: 25px;
+  display: flex;
+  justify-content: space-between;
+}
+.coming-container .coming-item div span {
+  color: #f5a27d;
+}

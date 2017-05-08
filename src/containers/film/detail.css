@@ -1,0 +1,41 @@
+/*
+ * @Author: tujiawang 
+ * @Date: 2017-05-08 11:11:01 
+ * @Last Modified by:   tujiawang 
+ * @Last Modified time: 2017-05-08 11:11:01 
+ */
+.film-detail {
+  color: #333;
+}
+.film-detail img {
+  width: 100%;
+}
+.film-detail h2 {
+  border-left: 16px solid #e4c89c;
+  margin: 10px 0;
+  font-size: 16px;
+  line-height: 28px;
+  padding-left: 5px;
+  font-weight: normal;
+}
+.film-detail li {
+  line-height: 28px;
+  font-size: 12px;
+  padding-left: 21px;
+}
+.film-detail p {
+  padding: 0 20px;
+  line-height: 20px;
+}
+.film-detail button {
+  display: block;
+  background: #fe8233;
+  min-width: 156px;
+  height: 36px;
+  font-size: 14px;
+  color: #fff;
+  line-height: 3px;
+  border-radius: 18px;
+  border: none;
+  margin: 20px auto 0;
+}
