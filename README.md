@@ -8,7 +8,7 @@
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+# serve at localhost:3000
 node proxy.js
 
 # serve with hot reload at localhost:8080
